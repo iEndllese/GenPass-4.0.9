@@ -14,5 +14,4 @@ Generates more complex passwords that contain special characters, English letter
 
 Cyrillic generation:
 
-Generates Russian letters and numbers, it is recommended to use only for social networks that support Cyrillic
-Supports the generation range of your choice, more precisely the generation of a certain number of passwords and its length
+Generates Russian letters and numbers, it is recommended to use only for social networks that support Cyrillic. Supports the generation range of your choice, more precisely the generation of a certain number of passwords and its length
